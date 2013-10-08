@@ -2,7 +2,7 @@ package com.collectivebuying;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Gerente resposavel pelo cadastro 
 public class GerenteDeCadastro {
 
 	private List<Cliente> clientes;
