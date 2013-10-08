@@ -1,10 +1,19 @@
+﻿
 ﻿import java.util.ArrayList;
+
+﻿package com.collectivebuying;
+
+import java.util.ArrayList;
+
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.List;
 
 
+
 public class GerenteDeCompra{
+
+
 
 	private List<Produto> produtos = new ArrayList<Produto>();
 	private List<Produto> produtosDisponíveis;
@@ -94,7 +103,6 @@ public class GerenteDeCompra{
 	}
 
 
-	
 	
 	
 	
